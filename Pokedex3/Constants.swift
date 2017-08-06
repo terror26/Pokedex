@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+let Url_Base = "https://pokeapi.co"
+let Url_Pokemon = "/api/v1/pokemon/"
+
+typealias DownloadComplete = () -> ()
