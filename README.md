@@ -6,3 +6,5 @@ Each Pokemon(805 all of them) details is there with a search mechanism in the se
 pokemon
 Pokemon evolution as well as the previous stages is shown in the app.
 Its a simple yet a powerful and handy app which one must have around to become the ULTIMATE POKEMON MASTER
+ALAMOFIRE is used to get the details for all the pokemon
+
